@@ -1,8 +1,8 @@
 {
   "meta": {
     "username": "hackrco",
-    "repositoryName": "hackr",
-    "branch": "gh-pages"
+    "repositoryName": "hackrco.github.io",
+    "branch": "master"
   },
   "theme": {
     "name": "Casper"
